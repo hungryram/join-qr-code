@@ -1,3 +1,2 @@
-baseURL = 'https://join-qr.netlify.app/'
+baseURL = 'https://scan.serhant.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
