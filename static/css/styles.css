@@ -20,8 +20,11 @@ body {
 }
 
 .heading {
-    position: relative;
-    top: 60px;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    text-align: center;
 }
 
 #status {
